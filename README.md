@@ -1,6 +1,4 @@
-# Koala UI (DATAPACT)
-
-![SINTEF logo](docs/images/sintef_logo.svg)
+# Koala UI 
 
 Koala UI is a React + Flask workspace that supports semantic annotation and human-in-the-loop review of tabular data. Users can explore datasets, inspect tables, run entity linking and annotation jobs, and export enriched CSV files.
 
