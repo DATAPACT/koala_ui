@@ -27,7 +27,7 @@ Koala UI is a React-based front-end that communicates with a Flask backend. The 
 Koala UI provides the human-facing interface for semantic enrichment workflows. It supports dataset ingestion, column type management, entity linking and disambiguation, and validation of suggested annotations. Users can review candidate entities, adjust annotations, and export enriched tables. The UI integrates with backend services that manage data storage and invoke external enrichment services.
 
 ## **Screenshots**
-![Koala UI dataset view](./images/koala_ui_screenshot.png)
+![Koala UI table view](./images/koala_ui_screenshot.png)
 
 ## **Commercial Information**
 
