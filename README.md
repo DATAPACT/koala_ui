@@ -6,7 +6,3 @@ Upstream repository (existing codebase): [https://github.com/enRichMyData/koala_
 
 ## Docs
 - Public documentation template: `docs/README.md`
-
-## Related Compliance Aspects
-- Semantic annotation
-- Human-in-the-loop data review and validation
